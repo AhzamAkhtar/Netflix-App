@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Netflix-App/static/css/main.cfdd283d.chunk.css",
+    "main.js": "/Netflix-App/static/js/main.dd7b18a0.chunk.js",
+    "main.js.map": "/Netflix-App/static/js/main.dd7b18a0.chunk.js.map",
+    "runtime-main.js": "/Netflix-App/static/js/runtime-main.15025c6a.js",
+    "runtime-main.js.map": "/Netflix-App/static/js/runtime-main.15025c6a.js.map",
+    "static/js/2.8dc08047.chunk.js": "/Netflix-App/static/js/2.8dc08047.chunk.js",
+    "static/js/2.8dc08047.chunk.js.map": "/Netflix-App/static/js/2.8dc08047.chunk.js.map",
+    "index.html": "/Netflix-App/index.html",
+    "static/css/main.cfdd283d.chunk.css.map": "/Netflix-App/static/css/main.cfdd283d.chunk.css.map",
+    "static/js/2.8dc08047.chunk.js.LICENSE.txt": "/Netflix-App/static/js/2.8dc08047.chunk.js.LICENSE.txt",
+    "static/media/mrrobot.367cddf2.jpg": "/Netflix-App/static/media/mrrobot.367cddf2.jpg",
+    "static/media/narcos.e20ba20f.jpg": "/Netflix-App/static/media/narcos.e20ba20f.jpg",
+    "static/media/nozark.640ece10.jpg": "/Netflix-App/static/media/nozark.640ece10.jpg",
+    "static/media/ozark.d0156fef.jpg": "/Netflix-App/static/media/ozark.d0156fef.jpg",
+    "static/media/prisonbreak.b8abbd31.jpg": "/Netflix-App/static/media/prisonbreak.b8abbd31.jpg",
+    "static/media/tbbt.1334d4b0.jpg": "/Netflix-App/static/media/tbbt.1334d4b0.jpg",
+    "static/media/ys.3c2abbfb.jpg": "/Netflix-App/static/media/ys.3c2abbfb.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.15025c6a.js",
+    "static/js/2.8dc08047.chunk.js",
+    "static/css/main.cfdd283d.chunk.css",
+    "static/js/main.dd7b18a0.chunk.js"
+  ]
+}
